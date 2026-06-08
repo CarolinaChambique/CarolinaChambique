@@ -3,6 +3,8 @@ Data Analytics | Python | SQL | Power BI | Cloud Computing ☁️
 
 🎓 Computer Science Student | Data Analytics & Cloud Enthusiast
 
+🚀 Oracle Next Education (ONE) | AI & Data Analytics Path
+
 🌱 Currently learning Data Analytics, Artificial Intelligence, Cloud Computing, Python, SQL and Power BI
 
 📊 Interested in Data Analytics, Business Intelligence and Data Engineering projects
