@@ -19,6 +19,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=CarolinaChambique&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=CarolinaChambique&icon=9&color=0)](https://visitcount.itsvg.in)
-
+[![](https://komarev.com/ghpvc/?username=CarolinaChambique&icon=0&color=8A2BE2)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
