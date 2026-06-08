@@ -7,7 +7,7 @@ Data Analytics | Python | SQL | Power BI | Cloud Computing ☁️
 
 📊 Interested in Data Analytics, Business Intelligence and Data Engineering projects
 
-☁️ Google Cloud Career Launchpad Scholar | ☁️ Google Cloud Career Launchpad Scholar | AWS Cloud Practitioner
+☁️ Google Cloud Career Launchpad Scholar | AWS Cloud Practitioner
 
 💬 Ask me about Python, SQL, Power BI, Cloud Fundamentals and Data Analytics
 
