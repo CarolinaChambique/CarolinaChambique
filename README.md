@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working on AI Agents, RAG Systems and Data Analytics projects<br><br>👯 I’m looking to collaborate on AI, Data Analytics, Cloud Computing and Open Source projects<br><br>🤝Expanding my skills in Machine Learning, MLOps and Data Engineering<br><br>🌱 I’m currently learning Artificial Intelligence, Cloud Computing, Python, SQL, Power BI and Generative AI<br><br>💬 Ask me about Python, SQL, Power BI, AI Agents, RAG and Cloud Fundamentals<br><br>⚡ Fun fact: I love transforming data into insights and building intelligent solutions with AI
+# 💫 Hi there, I'm Carolina Chambique 👋
+Data Analytics | Python | SQL | Power BI | Cloud Computing ☁️
+
+🎓 Computer Science Student | Data Analytics & Cloud Enthusiast
+
+🌱 Currently learning Data Analytics, Artificial Intelligence, Cloud Computing, Python, SQL and Power BI
+
+📊 Interested in Data Analytics, Business Intelligence and Data Engineering projects
+
+☁️ Google Cloud Career Launchpad Scholar | ☁️ Google Cloud Career Launchpad Scholar | AWS Cloud Practitioner
+
+💬 Ask me about Python, SQL, Power BI, Cloud Fundamentals and Data Analytics
+
+⚡ Fun fact: I enjoy transforming data into insights and building data-driven solutions
 
 
 ## 🌐 Socials:
