@@ -1,20 +1,25 @@
 # 💫 Hi there, I'm Carolina Chambique 👋
-Data Analytics | Python | SQL | Power BI | Cloud Computing ☁️
+Python Developer | Data Analytics | Generative AI & Automation | SQL · Power BI · Cloud ☁️
 
-🎓 Computer Science Student | Data Analytics & Cloud Enthusiast
+🎓 Computer Science student focused on data analytics, artificial intelligence and cloud technologies.
 
-🚀 Oracle Next Education (ONE) | AI & Data Analytics Path
+🚀 Oracle Next Education (ONE) — AI & Data Analytics learning path.
 
-🌱 Currently learning Data Analytics, Artificial Intelligence, Cloud Computing, Python, SQL and Power BI
+📊 I build data-driven solutions using Python, SQL, Pandas and Power BI, transforming raw information into actionable insights.
 
-📊 Interested in Data Analytics, Business Intelligence and Data Engineering projects
+🤖 I also develop intelligent applications with LLMs, RAG, LangChain, APIs and document-processing pipelines.
 
-☁️ Google Cloud Career Launchpad Scholar | AWS Cloud Practitioner
+☁️ Experience deploying containerized applications with Docker and Google Cloud Run.
 
-💬 Ask me about Python, SQL, Power BI, Cloud Fundamentals and Data Analytics
+🔍 Interested in Data Analytics, Business Intelligence, Python automation, Generative AI and entry-level Data Engineering opportunities.
 
-⚡ Fun fact: I enjoy transforming data into insights and building data-driven solutions
+### Featured project
 
+🏦 **NeoBank Digital AI Assistant**  
+A document-based AI assistant built with Python, LangChain, Cohere, FAISS and BM25. It processes PDF and CSV files, answers questions using a RAG pipeline, displays its sources and rejects questions outside the available documentation.
+
+🔗 [View repository](https://github.com/CarolinaChambique/NeoBank-Digital-AI-Assistant)  
+🌐 [Live application](https://neobank-ai-assistant-172259427320.us-central1.run.app)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carolina-chambique) 
