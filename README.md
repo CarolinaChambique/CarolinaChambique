@@ -1,7 +1,7 @@
 # 💫 Hi there, I'm Carolina Chambique 👋
-Python Developer | Data Analytics | Generative AI & Automation | SQL · Power BI · Cloud ☁️
+Data Analyst & Python Developer | Power BI · SQL · Automation · Generative AI · Cloud | Computer Engineering, Programming & AI/ML Student ☁️
 
-🎓 Computer Science student focused on data analytics, artificial intelligence and cloud technologies.
+🎓 Computer  Engineeringstudent focused on data analytics, artificial intelligence and cloud technologies.
 
 🚀 Oracle Next Education (ONE) — AI & Data Analytics learning path.
 
