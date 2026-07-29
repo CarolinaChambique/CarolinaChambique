@@ -1,14 +1,20 @@
- # 💫Hi, I'm Carolina Chambique 👋
+# 💫 Hi, I'm Carolina Chambique 👋
 
-### Generative AI & Automation Developer | Data Analyst
+## Generative AI & Automation Developer | Data Analyst
 
-Python · SQL · Power BI · RAG · n8n · Google Cloud ☁️
-🎓 Computer  Engineering student focused on data analytics, artificial intelligence and cloud technologies.
+**Python · SQL · Power BI · RAG · n8n · Google Cloud**
+
+🎓 Computer Engineering student focused on data analytics, artificial intelligence and cloud technologies.
+
 🚀 Oracle Next Education (ONE) — AI & Data Analytics learning path.
+
 📊 I build data-driven solutions using Python, SQL, Pandas and Power BI, transforming raw information into actionable insights.
-🤖 I also develop intelligent applications with LLMs, RAG, LangChain, APIs and document-processing pipelines.
+
+🤖 I develop intelligent applications using LLMs, RAG, LangChain, APIs and document-processing pipelines.
+
 ☁️ Experience deploying containerized applications with Docker and Google Cloud Run.
-🔍 Interested in Data Analytics, Business Intelligence, Python automation, Generative AI and entry-level Data Engineering opportunities.
+
+🔍 Interested in Data Analytics, Business Intelligence, Python automation, Generative AI and Data Engineering opportunities.
 
 🌐 [View my professional portfolio](https://carolina-chambique.lovable.app)
 
